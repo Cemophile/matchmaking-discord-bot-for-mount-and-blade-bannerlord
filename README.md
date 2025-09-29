@@ -14,7 +14,7 @@
 > Includes **3 different classes**, an **ELO system**, and a **warning & ban system**.  
 
 📌 Currently used by **188 active players**  
-🎮 Discord server: [discord.gg/thevale](https://discord.gg/thevale)  
+🎮 The Discord server that actively using: [discord.gg/thevale](https://discord.gg/thevale)  
 
 ---
 
@@ -32,7 +32,7 @@
 ## 📷 Screenshot
 
 <p align="center">
-  <img src="https://i.imgur.com/7ScK4Gu.png" width="600" alt="Matchmaking Screenshot" />
+  <img src="https://imgur.com/a/f8dSWBD" width="600" alt="Matchmaking Screenshot" />
 </p>
 
 ---
@@ -44,3 +44,16 @@
    git clone https://github.com/Cemophile/matchmaking-discord-bot-for-mount-and-blade-bannerlord.git
    cd matchmaking-discord-bot-for-mount-and-blade-bannerlord
 
+
+
+🛡️ Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+🌍 Community
+
+📌 Discord: discord.gg/thevale
+
+📌 Developer: @Cemophile
+
+<p align="center"> <sub>Made with ❤️ for the Bannerlord community</sub> </p> ```
