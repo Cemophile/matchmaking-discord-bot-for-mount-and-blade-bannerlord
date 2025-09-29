@@ -1,0 +1,80 @@
+{
+    "772746716705325066": {
+        "warnings": [
+            {
+                "reason": "Ragequit ve -40 elo cezas\u0131",
+                "warn_until": 1743704763.160026
+            },
+            {
+                "reason": "Tak\u0131mdaki oyunculara toxiclik ve tak\u0131m oyuncular\u0131na ba\u011f\u0131rmak",
+                "warn_until": 1743961104.3818421
+            }
+        ],
+        "count": 2
+    },
+    "984794463941586984": {
+        "warnings": [
+            {
+                "reason": "IGL komutuna kar\u015f\u0131 gelmek ve uymamak.",
+                "warn_until": 1743866276.7395082
+            }
+        ],
+        "count": 1
+    },
+    "697928251200241754": {
+        "warnings": [
+            {
+                "reason": "match dodging",
+                "warn_until": 1743962154.2740664
+            }
+        ],
+        "count": 1
+    },
+    "710506905805783162": {
+        "warnings": [
+            {
+                "reason": "Ma\u00e7tan \u00e7\u0131kmak",
+                "warn_until": 1747165991.1267796
+            }
+        ]
+    },
+    "293023233555300352": {
+        "warnings": []
+    },
+    "1112362532888391680": {
+        "warnings": [
+            {
+                "reason": "Ma\u00e7a kat\u0131lmamak afk",
+                "warn_until": 1750953769.567501
+            }
+        ]
+    },
+    "288675761894981632": {
+        "warnings": [
+            {
+                "reason": "rq",
+                "warn_until": 1754131716.9933116
+            }
+        ]
+    },
+    "486932949216788491": {
+        "warnings": [
+            {
+                "reason": "rq",
+                "warn_until": 1757276147.0326788
+            },
+            {
+                "reason": "rq",
+                "warn_until": 1757276147.0326788
+            }
+        ]
+    },
+    "706811718013157416": {
+        "warnings": [
+            {
+                "reason": "IGL komutlar\u0131na uymamak.",
+                "warn_until": 1757772069.0430162
+            }
+        ]
+    }
+}
